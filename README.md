@@ -1,16 +1,6 @@
-#  Algoritmos e Programação de Computadores I — UNIVESP
-
-Este projeto reúne os desafios práticos da disciplina de Algoritmos e Programação de Computadores I da UNIVESP. 
-
-Utilizando a linguagem Python, desenvolvi soluções focadas na área de Dados, cobrindo desde a lógica básica, tratamento de erros e loops inteligentes, até a manipulação de listas e matrizes para processar grandes volumes de informações de forma eficiente.
-
-
-# 🐍 Algoritmos e Programação de Computadores I — UNIVESP
+🐍 Algoritmos e Programação de Computadores I — UNIVESP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![UNIVESP](https://img.shields.io/badge/UNIVESP-Algoritmos_I-b30000?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
-![Foco](https://img.shields.io/badge/Foco-Estruturas_de_Dados_&_Lógica-blue?style=for-the-badge)
 
 Repositório dedicado ao armazenamento dos desafios, listas práticas e algoritmos desenvolvidos durante a disciplina de **Algoritmos e Programação de Computadores I** do Bacharelado em Tecnologia da Informação (BTI) da **UNIVESP**.
 
