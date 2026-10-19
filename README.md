@@ -1,31 +1,32 @@
-🐍 Algoritmos e Programação de Computadores I — UNIVESP
+# 🐍 Algoritmos e Programação de Computadores I e II — UNIVESP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Repositório dedicado ao armazenamento dos desafios, listas práticas e algoritmos desenvolvidos durante a disciplina de **Algoritmos e Programação de Computadores I** do Bacharelado em Tecnologia da Informação (BTI) da **UNIVESP**.
-
-O projeto reúne soluções computacionais implementadas em **Python**, cobrindo desde a lógica inicial até a manipulação e processamento de dados tabulares com listas e matrizes.
+Repositório dedicado ao armazenamento dos desafios práticos, listas de exercícios e soluções computacionais desenvolvidas nas disciplinas de **Algoritmos e Programação de Computadores I e II** do Bacharelado em Tecnologia da Informação (BTI) da **UNIVESP**.
 
 ---
 
 ## 🎯 Conceitos Chave Aplicados
 
-* **Entrada e Saída Padrão:** Captura e coerção de tipos de dados (`input`, `int`, `float`, `str`) e formatação textual avançada (`f-strings`).
-* **Estruturas Condicionais:** Desvios lógicos e validações encadeadas com `if`, `elif`, `else` e operadores relacionais/lógicos.
-* **Laços de Repetição:** Automação de processamento através de laços determinados (`for`) e indeterminados (`while`), além do uso de acumuladores e controle de fluxo (`break`, `continue`)[cite: 14].
-* **Coleções e Estruturas Lineares:** Indexação, fatiamento (*slicing*), mutabilidade e métodos nativos de listas (`append`, `pop`, `insert`, `sort`)[cite: 14].
-* **Estruturas Bidimensionais (Matrizes):** Criação e iteração aninhada sobre matrizes numéricas para processamento e filtragem de volumes tabulares[cite: 14].
+* **Entrada, Saída e Tipagem:** Manipulação de variáveis e coerção de tipos primitivos (`int`, `float`, `str`, `bool`).
+* **Operadores e Expressões:** Operações aritméticas, relacionais, lógicas e formatação avançada de saídas (`f-strings`).
+* **Estruturas Condicionais:** Desvios de fluxo lógicos utilizando `if`, `elif` e `else`.
+* **Laços e Iterações:** Estruturas de repetição controlada (`for`) e condicional (`while`), acumuladores e quebras de fluxo.
+* **Coleções e Matrizes:** Listas unidimensionais (vetores) e estruturas bidimensionais (matrizes) para processamento tabular de dados.
 
 ---
 
 ## 📂 Organização das Semanas
 
-O repositório está subdividido em pastas cronológicas correspondentes ao cronograma acadêmico da disciplina[cite: 14]:
+O repositório está subdividido em pastas cronológicas correspondentes ao cronograma curricular:
 
-* 📁 **`S4_Criacao_de_Programas/`**: Fundamentos de sintaxe, declaração de variáveis, operadores aritméticos e primeiros algoritmos sequenciais[cite: 14].
-* 📁 **`S5_Estruturas_de_Condicao/`**: Tomadas de decisão lógicas, filtros de dados e validação de regras com condições compostas[cite: 14].
-* 📁 **`S6_Estruturas_de_Repeticao/`**: Construção de laços repetitivos, contadores, acumuladores numéricos e estruturas interativas de repetição[cite: 14].
-* 📁 **`S7_Vetores_e_Matrizes/`**: Manipulação estruturada de listas unidimensionais e matrizes bidimensionais para análise e agregação de dados[cite: 14].
+* 📁 **`S1_Introducao_e_Python/`**: Configuração do ambiente, introdução à sintaxe da linguagem Python e primeiros scripts executáveis.
+* 📁 **`S2_Tipos_de_Dados/`**: Variáveis primitivas, leitura de dados (`input`), conversão de tipos e operadores matemáticos fundamentais.
+* 📁 **`S3_Tipos_de_Dados/`**: Aprofundamento em operadores relacionais, lógicos, precedência de operadores e manipulação textual básica.
+* 📁 **`S4_Criacao_de_Programas/`**: Estruturação de programas completos, modularização de comandos e fluxo de execução sequencial.
+* 📁 **`S5_Estruturas_de_Condicao/`**: Tomadas de decisão lógicas, validações de dados e desvios condicionais com `if`, `elif` e `else`.
+* 📁 **`S6_Estruturas_de_Repeticao/`**: Construção de loops de repetição (`for` e `while`), contadores numéricos e acumuladores de valores.
+* 📁 **`S7_Vetores_e_Matrizes/`**: Manipulação estruturada de listas (vetores) e matrizes bidimensionais para análise e filtragem de volumes de dados.
 
 ---
 
@@ -37,4 +38,4 @@ O repositório está subdividido em pastas cronológicas correspondentes ao cron
 ### Execução de um exercício
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SuzanaBTI/Algoritmos-e-Programacao-de-Computadores-I---UNIVESP.git](https://github.com/SuzanaBTI/Algoritmos-e-Programacao-de-Computadores-I---UNIVESP.git)
+   git clone [https://github.com/SuzanaBTI/Algoritmos_Programacao_UNIVESP.git](https://github.com/SuzanaBTI/Algoritmos_Programacao_UNIVESP.git)
